@@ -1,0 +1,51 @@
+body {
+    background-image: linear-gradient(90deg, #00E9FF 0%, #5F51F5 100%); 
+    padding: 50px 20px 60px 20px;
+    text-align: center;
+    color: azure;
+}
+
+h1 .logo{
+    max-width: 500px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 2.2rem;
+    font-family: Helvetica, sans-serif;
+    /* text-shadow: 1px 1px 8px #26313d45; */
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 63px;
+    text-align: left;
+    background: #ffffff3b;
+    padding: 40px 30px;
+    color: #4034ba;
+    border-radius: 10px;
+    box-shadow: 0px 0px 23px #4034ba42;
+
+}
+
+p .icon{
+    padding: 10px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.center{
+    text-align: center;
+}
+
+p a {
+    color: azure;
+}
+
+h2 .keyword_tag {
+    background-color:  #4034ba;
+    color: azure;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 20px;
+}
+
+
